@@ -21,7 +21,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,typescript,angular,mysql,postgresql,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python,spring,nodejs,typescript,angular,mysql,postgresql,docker)](https://skillicons.dev)
 
 ## Contact 📞
 <a href="https://www.linkedin.com/in/leonardo-gomes-7761b4251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
