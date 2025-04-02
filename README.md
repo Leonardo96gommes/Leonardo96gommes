@@ -8,17 +8,12 @@
 
 ###
 
-<p align="left">My name is Leonardo  and I'm a Dev Frontend.</p>
+<p align="left">My name is Leonardo  and I'm a Dev Fullstack.</p>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-
-<h2 align="left">I code with</h2>
-
+<h2 align="left">I code with</h2> 
+                   
 ###
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python,spring,nodejs,typescript,angular,mysql,postgresql,docker)](https://skillicons.dev)
